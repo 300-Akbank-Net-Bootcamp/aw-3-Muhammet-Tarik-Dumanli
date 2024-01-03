@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbXkZoQ+64n9uMas++WEMQRlo/VmwIYjAMoEo4dDHgEFDlLWeYRue2UO2bkM0LSi/cbcVLOMnJ0CwbeEzomiDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Patika-Akbank_BootCamp\\Week3\\aw-3-Muhammet-Tarik-Dumanli\\pk-ab\\VbApi\\Vb.Schema\\Vb.Schema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MUHAMMET\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
